@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1608558484 source:d:\projects\tetris\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<SDL2/SDL.h>
+	"piece.h"
+	"board_tile.h"
+
+1608562746 source:d:\projects\tetris\piece.c
+	"piece.h"
+
+1608562179 d:\projects\tetris\piece.h
+	<SDL2/SDL.h>
+	<time.h>
+	<stdlib.h>
+	"board_tile.h"
+	"mt.h"
+
+1608490701 source:d:\projects\tetris\board_tile.c
+	"board_tile.h"
+
+1608488977 d:\projects\tetris\board_tile.h
+	<SDL2/SDL.h>
+
+1608558189 d:\projects\tetris\mt.h
+
+1608558188 source:d:\projects\tetris\mt.c
+	"mt.h"
+	<stdlib.h>
+	<stdio.h>
+
